@@ -38,7 +38,7 @@ import PIL.ImageFont as ImageFont
 import six
 from six.moves import range
 from six.moves import zip
-import tensorflow as tf
+# import tensorflow as tf
 
 _TITLE_LEFT_MARGIN = 10
 _TITLE_TOP_MARGIN = 10
